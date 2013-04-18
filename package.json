@@ -9,6 +9,8 @@
   "dependencies": {
     "express": "3.2.0",
     "ejs": "*",
-    "stylus": "*"
+    "stylus": "*",
+    "colors": "*",
+    "mongoose": "*"
   }
 }
