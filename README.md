@@ -1,4 +1,3 @@
-nodeapp
-=======
+# Nodeapp
 
-Node app using express web framework
+Simple nodejs app using express web framework
